@@ -1,0 +1,4 @@
+Hello, this is a test file.
+Each line in this file will be printed.
+Java makes file handling easy with FileReader and BufferedReader.
+This is the last line.
