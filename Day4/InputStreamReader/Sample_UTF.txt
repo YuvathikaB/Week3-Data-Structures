@@ -1,0 +1,5 @@
+This file contains UTF-8 encoded text.
+Hello, world!
+Some special characters: äöüßéñç
+Emojis too: 😀🎉🚀
+End of file.
